@@ -1,0 +1,10 @@
+name = "Gridworld"
+uuid = "914ea9cb-3604-4d7b-9a2f-43344e6cbd5a"
+authors = ["Jay Barrett"]
+version = "0.1.0"
+
+[deps]
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
